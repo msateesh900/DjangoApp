@@ -14,8 +14,8 @@ git config list 	---->to get if you have already set username and email
 To set username and email in git use the below command
 
 
-git config --global user.name "sateeshFru"
-git config --global user.email "sateeshnaidu900@gmail.com"
+git config --global user.name "yourgitname"
+git config --global user.email "yourRegisteredGitMail"
 
 
 Run the app as follows:
